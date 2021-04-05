@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://magsdigitalsolutions.github.io/Marvin/sitemap_Index.xml
