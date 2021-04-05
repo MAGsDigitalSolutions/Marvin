@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:ror="http://rorweb.com/0.1/" >
+<channel>
+  <title>ROR Sitemap for https://magsdigitalsolutions.github.io/Marvin/</title>
+  <link>https://magsdigitalsolutions.github.io/Marvin/</link>
+
+<item>
+     <link>https://magsdigitalsolutions.github.io/Marvin/</link>
+     <title>Marvin Galarosa || Home</title>
+     <description>Marvin Galarosa || Home</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>0</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://magsdigitalsolutions.github.io/Marvin/index.html</link>
+     <title>Marvin Galarosa || Home</title>
+     <description>Marvin Galarosa || Home</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://magsdigitalsolutions.github.io/Marvin/about.html</link>
+     <title>Marvin Galarosa || About</title>
+     <description>Marvin Galarosa || About</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://magsdigitalsolutions.github.io/Marvin/projects.html</link>
+     <title>Marvin Galarosa || Projects</title>
+     <description>Marvin Galarosa || Projects</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://magsdigitalsolutions.github.io/Marvin/contact.html</link>
+     <title>Marvin Galarosa || Contact</title>
+     <description>Marvin Galarosa || Contact</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+</channel>
+</rss>
+  
